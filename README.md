@@ -4,7 +4,7 @@ Codes for the following paper:
 
 Hashemi, Navid, Justin Ruths, and Mahyar Fazlyab. "Certifying Incremental Quadratic Constraints for Neural Networks via Convex Optimization." Learning for Dynamics and Control. PMLR, 2021.
 
-`
+```
 @inproceedings{hashemi2021certifying, 
   title={Certifying Incremental Quadratic Constraints for Neural Networks via Convex Optimization},
   author={Hashemi, Navid and Ruths, Justin and Fazlyab, Mahyar},
@@ -13,4 +13,4 @@ Hashemi, Navid, Justin Ruths, and Mahyar Fazlyab. "Certifying Incremental Quadra
   year={2021},
   organization={PMLR}
 }
-`
+```
